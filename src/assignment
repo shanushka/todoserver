@@ -1,0 +1,6 @@
+create new project 
+create  APIs CRUD for todos
+It should handle errors
+Folders structure should be well
+install postgresql and crete a database todos.
+Research on how we can connect to this postgresql
